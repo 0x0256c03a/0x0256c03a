@@ -12,8 +12,9 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 - 🌱 &nbsp; I’m currently learning Typescript, AssemblyScript, Rust, Go; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/0x0256c03a?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 🔥 &nbsp; I'm currently working but I planned to created my own company this year!
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/noeflatreaud/)
-- 📜 &nbsp; Checkout my [resume 📜](https://www.linkedin.com/in/noeflatreaud/)
+- 📜 &nbsp; You can checkout my [resume 📜](https://www.linkedin.com/in/noeflatreaud/)
 - 👨‍🍳 &nbsp; I do cook a lot 👨‍🍳, it's my little French touch I guess.
 
 <br><br><br>
