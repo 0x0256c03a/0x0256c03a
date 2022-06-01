@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Noe Flatreaud
 
 I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
-<br \>
+<br>
+<br>
 <img align="right" alt="GIF" src="./giphy-499399569" width="400px"/>
 
 ### 🧐 More About Me:
