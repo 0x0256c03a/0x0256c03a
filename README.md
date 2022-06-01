@@ -1,4 +1,4 @@
-<img src="./header.svg" />
+<img src="./header.svg"></img>
 
 <!---
 0x0256c03a/0x0256c03a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
