@@ -38,7 +38,7 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 ### 📊 Github Stats
 <a href='https://github.com/0x0256c03a/'>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api/ username=0x0256c03a&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=0x0256c03a&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 </a>
 
