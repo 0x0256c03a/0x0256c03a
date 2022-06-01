@@ -7,7 +7,8 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **????**
+- 🔭 &nbsp; I’m currently working on **private repositories**
+- 👨‍🎓 &nbsp; I actually graduated !
 - 🌱 &nbsp; I’m currently learning Typescript, AssemblyScript, Rust, Go; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/0x0256c03a?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
