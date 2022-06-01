@@ -14,7 +14,6 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 🔥 &nbsp; You can contact me professionally on [noe.flatreaud@dappwork.fr](mailto:noe.flatreaud@dappwork.fr)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/noeflatreaud/)
-- 📜 &nbsp; You can checkout my [resume 📜](https://github.com/0x0256c03a/0x0256c03a/blob/main/50480602_FR_CV_OnePage_Capgemini_Flatreaud_FR_2022.pdf)
 - 👨‍🍳 &nbsp; I do cook a lot 👨‍🍳, it's my little French touch I guess.
 
 <br><br><br>
