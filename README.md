@@ -35,10 +35,10 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/0x0256c03a/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/0x0256c03a/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/0x0256c03a/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
