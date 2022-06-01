@@ -37,7 +37,9 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 
 ### 📊 Github Stats
 <a href='https://github.com/0x0256c03a/'>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/0x0256c03a/github-readme-stats)
+
 </a>
 
 <br>
