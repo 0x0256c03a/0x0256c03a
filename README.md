@@ -15,7 +15,7 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 - 📜 &nbsp; Checkout my [resume 📜](https://www.linkedin.com/in/noeflatreaud/)
 - 👨‍🍳 &nbsp; I do cook a lot 👨‍🍳, it's my Little French Touch I guess. <br>If you don't mind reading, may I suggest you "Le Guide Culinaire, Escoffier"
 
-<br>
+<br><br>
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -36,11 +36,8 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 
 
 ### 📊 Github Stats
-<a href='https://github.com/0x0256c03a/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/0x0256c03a/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/0x0256c03a/github-stats-transparent/output/generated/languages.svg)
-
+<a href='https://github.com/0x0256c03a/'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <br>
