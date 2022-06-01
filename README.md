@@ -12,7 +12,7 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 - 🌱 &nbsp; I’m currently learning Typescript, AssemblyScript, Rust, Go; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/0x0256c03a?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 🔥 &nbsp; You can contact me professionally at [noe.flatreaud@dappwork.fr](mailto:noe.flatreaud@dappwork.fr)
+- 🔥 &nbsp; You can contact me professionally on [noe.flatreaud@dappwork.fr](mailto:noe.flatreaud@dappwork.fr)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/noeflatreaud/)
 - 📜 &nbsp; You can checkout my [resume 📜](https://www.linkedin.com/in/noeflatreaud/)
 - 👨‍🍳 &nbsp; I do cook a lot 👨‍🍳, it's my little French touch I guess.
