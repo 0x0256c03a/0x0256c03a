@@ -13,7 +13,7 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/noeflatreaud/)
 - 📜 &nbsp; Checkout my [resume 📜](https://www.linkedin.com/in/noeflatreaud/)
-- 👨‍🍳 &nbsp; I do cook a lot 👨‍🍳, it's my Little French Touch I guess. <br>If you don't mind reading, may I suggest you "Le Guide Culinaire, Escoffier"
+- 👨‍🍳 &nbsp; I do cook a lot 👨‍🍳, it's my little French touch I guess.
 
 <br><br>
 
