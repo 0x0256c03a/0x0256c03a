@@ -15,7 +15,7 @@ I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 - 📜 &nbsp; Checkout my [resume 📜](https://www.linkedin.com/in/noeflatreaud/)
 - 👨‍🍳 &nbsp; I do cook a lot 👨‍🍳, it's my little French touch I guess.
 
-<br><br>
+<br><br><br>
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
