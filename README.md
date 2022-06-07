@@ -2,8 +2,8 @@
 
 I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 <br>
-<br>
 I already have a Github account but planned to re-migrate everything on a clean one here !
+<br>
 <br>
 <br>
 <img align="right" alt="GIF" src="./giphy-499399569" width="360px"/>
