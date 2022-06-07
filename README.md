@@ -1,6 +1,7 @@
 ## Hey 👋, I'm Noe Flatread
 
 I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
+I already have a Github account but planned to re-migrate everything on a clean one here !
 <br>
 <br>
 <img align="right" alt="GIF" src="./giphy-499399569" width="360px"/>
