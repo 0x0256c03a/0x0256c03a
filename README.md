@@ -1,4 +1,4 @@
-## Hey 👋, I'm Noe Flatread
+## Hey 👋, I'm Noe Flatreaud
 
 I used to be a Sysadmin 🧙 but production went down 👨‍💻☠️
 <br>
